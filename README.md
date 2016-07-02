@@ -1,5 +1,4 @@
-# walle-java
-
+# WALL-E
 Team project developed in Java. It provides a Graphical User Interface (using Swing)
 to help WALL-E finding his spaceship in a maze.
 
